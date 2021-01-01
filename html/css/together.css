@@ -1,0 +1,19 @@
+span{
+    background-color: #00ff00;
+    font-size:125%;
+    height: 50px;
+    width: 75px;
+}
+div{
+    height: 100px;
+    width: 45%;
+    background-color: #00ffff;
+    display: table-cell;
+    
+    
+}
+p{
+    background-color: #0000ff;
+    float: left;
+}
+
